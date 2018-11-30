@@ -1,0 +1,1 @@
+<footer>Copyright &copy; KBTU , 2018-2019</footer>
